@@ -1,0 +1,32 @@
+#box {
+  height: 250px;
+  width: 250px;
+  background-color: red;
+  display: none;
+  border-radius: 125px;
+}
+
+.well {
+  text-align: center;
+  margin-left: 13px;
+}
+
+.btn {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#start {
+  background-color: orange;
+}
+
+#stop {
+  display: none;
+  color: white;
+  background-color: #fe0101;
+}
+
+#reset {
+  background-color: #17bc01;
+  display: none;
+}
